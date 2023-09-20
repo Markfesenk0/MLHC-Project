@@ -1,8 +1,5 @@
-# MLHC Project
-In this project, we develop prediction models for 3 ICU outcomes. More specifically:
+This repository contains both the project we instructed to submit and our working notebook:
+1. The folder "project" contains the provided files "__init__.py", "requirements.txt", "unseen data evaluation.py" and other files we added in order to run the pipeline. It also contains a README file documenting our newly added files.
+2. The file "Notebook" contains a lot of our work (everything that was not deleted along the way) and includes figures. Because of the figures it can't be displayed in github (or at least we couldn't), so if you want to look at it you might have to download it or open it in some other way.
 
-- Mortality during hospitalization or up to 30 days after discharge.
-- Prolonged stay: length of stay > 7 days.
-- Hospital readmission in 30 days after discharge (not to be confused with ICU readmission
-within the same hospital admission).
-
+As we understand the instructions, the "project" folder doesn't have to include everything we have done and the notebook doesn't have to include detailed documentation. If we are wrong, we can fix it.
